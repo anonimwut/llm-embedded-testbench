@@ -1,0 +1,9 @@
+{
+    "llm_prompts": [
+      {
+        "name": "LSM6DSO",
+        "text": "write me an Arduino uno program for the lsm6dso i2c IMU. It is connected to the default I2C pins on the arduino uno. Print the sensor output over Serial at baud rate 9600 every 100 millisecons. Here is an example output of a properly functioning program: _X = -0.517\nA_Y = 0.386\nA_Z = -0.749\nA_X = -0.517\nA_Y = 0.386\nA_Z = -0.749\nA_X = -0.517\n"
+      }
+    ]
+  }
+  
